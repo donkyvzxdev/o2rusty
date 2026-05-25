@@ -1,0 +1,1 @@
+C:\Users\Deivdasys\test\o2jam-rust\target\debug\o2jam-rust.exe: C:\Users\Deivdasys\test\o2jam-rust\src\audio.rs C:\Users\Deivdasys\test\o2jam-rust\src\chart.rs C:\Users\Deivdasys\test\o2jam-rust\src\config.rs C:\Users\Deivdasys\test\o2jam-rust\src\game.rs C:\Users\Deivdasys\test\o2jam-rust\src\loader.rs C:\Users\Deivdasys\test\o2jam-rust\src\main.rs

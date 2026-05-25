@@ -1,0 +1,36 @@
+{
+  "key_bindings": [
+    "A",
+    "S",
+    "D",
+    "Space",
+    "L",
+    ";",
+    "'"
+  ],
+  "scroll_speed": 5.2,
+  "column_start": 0.0,
+  "scroll_layout": "Center",
+  "scroll_direction": "Down",
+  "volume": 0.9,
+  "hit_position": 630.0,
+  "note_colors": [
+    "#44CC44",
+    "#44CC44",
+    "#44CC44",
+    "#44CC44",
+    "#44CC44",
+    "#44CC44",
+    "#44CC44"
+  ],
+  "note_height": 75.0,
+  "column_width": 75.0,
+  "audio_offset_ms": -50.0,
+  "ln_shortening_ms": 70.0,
+  "note_style": "Circle",
+  "column_spacing": -2.0,
+  "column_line_color": "#26263AFF",
+  "column_bg_color": "#222222",
+  "column_line_enabled": false,
+  "column_bg_enabled": false
+}

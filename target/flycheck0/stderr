@@ -1,0 +1,147 @@
+   0.671285000s  INFO prepare_target{force=false package_id=o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust) target="o2jam-rust"}: cargo::core::compiler::fingerprint: fingerprint error for o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust)/Check { test: false }/TargetInner { name: "o2jam-rust", doc: true, ..: with_path("C:\\Users\\Deivdasys\\test\\o2jam-rust\\src\\main.rs", Edition2021) }
+   0.671410400s  INFO prepare_target{force=false package_id=o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust) target="o2jam-rust"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Deivdasys\test\o2jam-rust\target\debug\.fingerprint\o2jam-rust-dcee8fbe4f459816\bin-o2jam-rust`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.768085600s  INFO prepare_target{force=false package_id=rodio v0.20.1 target="rodio"}: cargo::core::compiler::fingerprint: fingerprint error for rodio v0.20.1/Check { test: false }/TargetInner { ..: lib_target("rodio", ["lib"], "C:\\Users\\Deivdasys\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rodio-0.20.1\\src\\lib.rs", Edition2021) }
+   0.768168900s  INFO prepare_target{force=false package_id=rodio v0.20.1 target="rodio"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Deivdasys\test\o2jam-rust\target\debug\.fingerprint\rodio-a892de169bd43abf\lib-rodio`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.770899800s  INFO prepare_target{force=false package_id=cpal v0.15.3 target="cpal"}: cargo::core::compiler::fingerprint: fingerprint error for cpal v0.15.3/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("cpal", ["lib"], "C:\\Users\\Deivdasys\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cpal-0.15.3\\src\\lib.rs", Edition2021) }
+   0.770980400s  INFO prepare_target{force=false package_id=cpal v0.15.3 target="cpal"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Deivdasys\test\o2jam-rust\target\debug\.fingerprint\cpal-91aa25195bd48042\lib-cpal`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.777724100s  INFO prepare_target{force=false package_id=windows v0.54.0 target="windows"}: cargo::core::compiler::fingerprint: fingerprint error for windows v0.54.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("windows", ["lib"], "C:\\Users\\Deivdasys\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-0.54.0\\src\\lib.rs", Edition2021) }
+   0.778165200s  INFO prepare_target{force=false package_id=windows v0.54.0 target="windows"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Deivdasys\test\o2jam-rust\target\debug\.fingerprint\windows-12705e826094abe0\lib-windows`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.861680700s  INFO prepare_target{force=false package_id=o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust) target="o2jam-rust"}: cargo::core::compiler::fingerprint: fingerprint error for o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust)/Check { test: true }/TargetInner { name: "o2jam-rust", doc: true, ..: with_path("C:\\Users\\Deivdasys\\test\\o2jam-rust\\src\\main.rs", Edition2021) }
+   0.861742600s  INFO prepare_target{force=false package_id=o2jam-rust v0.1.0 (C:\Users\Deivdasys\test\o2jam-rust) target="o2jam-rust"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\Deivdasys\test\o2jam-rust\target\debug\.fingerprint\o2jam-rust-78239865c375edb6\test-bin-o2jam-rust`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking windows v0.54.0

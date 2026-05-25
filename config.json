@@ -1,0 +1,31 @@
+{
+  "key_bindings": [
+    "A",
+    "S",
+    "D",
+    "Space",
+    "L",
+    ";",
+    "'"
+  ],
+  "scroll_speed": 5.4,
+  "column_start": 0.0,
+  "scroll_layout": "Center",
+  "scroll_direction": "Down",
+  "volume": 0.75,
+  "hit_position": 650.0,
+  "note_colors": [
+    "#FFFFFF",
+    "#00CCCC",
+    "#FFFFFF",
+    "#FFCC00",
+    "#EDEDF2",
+    "#00CCCC",
+    "#EDEDF2"
+  ],
+  "note_height": 45.0,
+  "column_width": 70.0,
+  "audio_offset_ms": -50.0,
+  "ln_shortening_ms": 15.0,
+  "note_style": "Circle"
+}

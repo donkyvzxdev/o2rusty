@@ -1,0 +1,14 @@
+C:\Users\Deivdasys\test\o2jam-rust\target\debug\deps\thiserror-25789f6565ac01bf.d: C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\Deivdasys\test\o2jam-rust\target\debug\build\thiserror-3c4c74f89f7ba513\out/private.rs
+
+C:\Users\Deivdasys\test\o2jam-rust\target\debug\deps\libthiserror-25789f6565ac01bf.rlib: C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\Deivdasys\test\o2jam-rust\target\debug\build\thiserror-3c4c74f89f7ba513\out/private.rs
+
+C:\Users\Deivdasys\test\o2jam-rust\target\debug\deps\libthiserror-25789f6565ac01bf.rmeta: C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs C:\Users\Deivdasys\test\o2jam-rust\target\debug\build\thiserror-3c4c74f89f7ba513\out/private.rs
+
+C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\lib.rs:
+C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\aserror.rs:
+C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\display.rs:
+C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\var.rs:
+C:\Users\Deivdasys\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\thiserror-2.0.18\src\private.rs:
+C:\Users\Deivdasys\test\o2jam-rust\target\debug\build\thiserror-3c4c74f89f7ba513\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Deivdasys\\test\\o2jam-rust\\target\\debug\\build\\thiserror-3c4c74f89f7ba513\\out
